@@ -1,0 +1,30 @@
+{
+  "name": "randomcode",
+  "version": "1.0.1",
+  "description": "Generate codes with diferent types of characters and length.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekitopi/randomcode.git"
+  },
+  "keywords": [
+    "randomcode",
+    "gencode",
+    "random",
+    "code",
+    "generate",
+    "id",
+    "idgen",
+    "generateid",
+    "generatecode"
+  ],
+  "author": "alekitopi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alekitopi/randomcode/issues"
+  },
+  "homepage": "https://github.com/alekitopi/randomcode#readme"
+}
